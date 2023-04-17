@@ -6,7 +6,7 @@ How to verify:
 
 $ dd if=crash.bin of=/dev/sda1
 
-2) plug it to your Android device using USB OTG cable
+2) plug it into your Android device using USB OTG cable
 ``
 
 Should work with locked screen.
